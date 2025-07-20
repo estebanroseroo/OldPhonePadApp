@@ -1,0 +1,14 @@
+C:\Users\esteb\OldPhonePadApp\obj\Debug\net9.0\OldPhonePadApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esteb\OldPhonePadApp\obj\Debug\net9.0\OldPhonePadApp.AssemblyInfoInputs.cache
+C:\Users\esteb\OldPhonePadApp\obj\Debug\net9.0\OldPhonePadApp.AssemblyInfo.cs
+C:\Users\esteb\OldPhonePadApp\obj\Debug\net9.0\OldPhonePadApp.csproj.CoreCompileInputs.cache
+C:\Users\esteb\OldPhonePadApp\bin\Debug\net9.0\OldPhonePadApp.exe
+C:\Users\esteb\OldPhonePadApp\bin\Debug\net9.0\OldPhonePadApp.deps.json
+C:\Users\esteb\OldPhonePadApp\bin\Debug\net9.0\OldPhonePadApp.runtimeconfig.json
+C:\Users\esteb\OldPhonePadApp\bin\Debug\net9.0\OldPhonePadApp.dll
+C:\Users\esteb\OldPhonePadApp\bin\Debug\net9.0\OldPhonePadApp.pdb
+C:\Users\esteb\OldPhonePadApp\obj\Debug\net9.0\OldPhonePadApp.dll
+C:\Users\esteb\OldPhonePadApp\obj\Debug\net9.0\refint\OldPhonePadApp.dll
+C:\Users\esteb\OldPhonePadApp\obj\Debug\net9.0\OldPhonePadApp.pdb
+C:\Users\esteb\OldPhonePadApp\obj\Debug\net9.0\OldPhonePadApp.genruntimeconfig.cache
+C:\Users\esteb\OldPhonePadApp\obj\Debug\net9.0\ref\OldPhonePadApp.dll
