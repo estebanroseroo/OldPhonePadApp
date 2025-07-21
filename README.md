@@ -33,4 +33,4 @@ OldPhonePad("8 88777444666*664#") → TURING
 - Run the program using the command 'dotnet run'
 
 # License
-- This project is open-source and free to use under the MIT License.
+- This project is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
